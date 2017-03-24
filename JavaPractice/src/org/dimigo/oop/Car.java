@@ -13,7 +13,7 @@ package org.dimigo.oop;
  * </pre>
  *
  * @author       : 김용환
- * @vresion     : 1.0
+ * @version     : 1.0
  */
 public class Car {
 	private String company = "현대자동차";
