@@ -56,7 +56,7 @@ public class SmartPhone {
 		else if(phone instanceof Galaxy){
 			((Galaxy)phone).useWirelessCharging();
 		}
-	}
+	} 
 	public String toString(){
 		return "모델명 : "+model +", 제조사 : "+company+", 가격 : "+String.format("%,d", price)+"원";
 	}
