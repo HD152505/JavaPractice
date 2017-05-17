@@ -31,7 +31,7 @@ public class SmartPhoneTest {
 			p1.pay();
 			p1.useSpecialFunction();
 			p1.turnOff();
-		}
+		} 
 
 	}
 
